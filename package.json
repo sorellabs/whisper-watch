@@ -1,6 +1,6 @@
 {
   "name": "whisper-watch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Watches for certain events and runs tasks based on them!",
   "main": "./lib/index.js",
   "devDependencies": {
@@ -37,5 +37,9 @@
     "prelude-ls": "~0.6.0",
     "chokidar": "~0.6.2",
     "glob": "~3.1.21"
-  }
+  },
+  "keywords": [
+    "whisper-plugin",
+    "watch"
+  ]
 }
